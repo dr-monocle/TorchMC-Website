@@ -1,0 +1,9 @@
+DirectoryIndex index.html
+
+
+
+ErrorDocument 403 http://endhalo.ml/403.html
+
+ErrorDocument 404 http://endhalo.ml/404.html
+
+ErrorDocument 500 http://endhalo.ml/500.html
